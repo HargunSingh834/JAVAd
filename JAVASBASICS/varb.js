@@ -1,6 +1,6 @@
 // console.log("hargun")
 const accounID="32434"
-let accountcity="jammu"
+let accountcity="jammu"                                //the scope of var is complitely global
 var accountemail="sjdhwu@gmail.com"
 
 console.log(accounID,accountcity,accountemail)
