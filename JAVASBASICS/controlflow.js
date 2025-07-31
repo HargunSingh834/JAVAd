@@ -44,11 +44,11 @@ const score1=20
 const score2=20
 const score3=40
 const score4=20
-if(score1&&score2&& 2==2){
+if(score1&&score2&& 2==2){  //&& means all condition must be true 
     console.log("Allow");
     
 }
-if (score3||score4||2==2) {
+if (score3||score4||2==2) {      //|| if only one statement is true its work
     console.log("not allowed");
       
 }
