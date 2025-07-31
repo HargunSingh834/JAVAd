@@ -30,5 +30,9 @@ let val1;
  val1=undefined?? 33
 console.log(val1);
 
-//Terniary Operator
+//Terniary Operator ---> it is different from above 
+//syntax--> condition ?? true : false
+const price = 100
+price>=8120 ? console.log("price less than 100") : console.log("price more than 100");
+
 
