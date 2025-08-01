@@ -37,3 +37,4 @@ let usercity=city.filter( ( ct) =>ct.Name==="jammu" &&  ct.pincode==="181151")
 
 console.log(usercity);
 
+//in filter which is true ohi pass hoyegi
